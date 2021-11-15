@@ -1,5 +1,5 @@
 # I'm Luca Salluzzi
-- 👀 I’m interested in IOT, IA and matching a good backend with a proper frontend.
+- 👀 I’m studying software development at the University of Buenos Aires.
 - 📫 How to reach me: salluzzi.luca@gmail.com
 
 <!---
