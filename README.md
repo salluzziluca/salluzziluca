@@ -6,7 +6,7 @@
 
 
 
-![Luca's GitHub stats](https://github-readme-stats-alpha-orcin.vercel.app/api?username=salluzziluca)
+![Luca's GitHub stats](https://github-readme-stats-alpha-orcin.vercel.app/api?username=salluzziluca&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats-alpha-orcin.vercel.app/api/top-langs/?username=salluzziluca&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 salluzziluca/salluzziluca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
