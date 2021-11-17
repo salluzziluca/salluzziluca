@@ -7,6 +7,7 @@
 [![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=salluzziluca&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salluzziluca&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [<img src="https://{VERCEL_DOMAIN}/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />]
 <!---
 salluzziluca/salluzziluca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
