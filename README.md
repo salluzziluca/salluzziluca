@@ -1,6 +1,6 @@
 # I'm Luca Salluzzi
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salluzziluca)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=salluzziluca&show_icons=true&theme=tokyonight)
 
 - 👀 I’m studying software development at the University of Buenos Aires.
 - 📫 How to reach me: salluzzi.luca@gmail.com
