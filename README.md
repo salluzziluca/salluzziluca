@@ -7,7 +7,7 @@
 
 
 ![Luca's GitHub stats](https://github-readme-stats-six-lilac.vercel.app/api?username=salluzziluca&show_icons=true&theme=tokyonight&&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats-six-lilac.vercel.app/api/top-langs?username=salluzziluca&exclude_repo=github-readme-stats&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-lilac.vercel.app/api/top-langs?username=salluzziluca&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 salluzziluca/salluzziluca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
