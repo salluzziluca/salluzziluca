@@ -4,7 +4,7 @@
 - 📖 I’m studying software engineering at the University of Buenos Aires.
 - 📧 How to reach me: salluzzi.luca@gmail.com
 
-[![Luca's GitHub stats](github-readme-stats-alpha-orcin.vercel.app/api?username=salluzziluca&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Luca's GitHub stats](github-readme-stats-alpha-orcin.vercel.app/api?username=salluzziluca&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Top Langs](https://github-readme-stats-alpha-orcin.vercel.app/api/top-langs/?username=salluzziluca&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!---
