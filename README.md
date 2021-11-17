@@ -3,6 +3,7 @@
 
 - 👀 I’m studying software engineering at the University of Buenos Aires.
 - 📫 How to reach me: salluzzi.luca@gmail.com
+
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=salluzziluca&show_icons=true&theme=tokyonight&count_private=true)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salluzziluca)
