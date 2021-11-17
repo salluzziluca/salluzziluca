@@ -1,10 +1,10 @@
 # I'm Luca Salluzzi
 
 
-- 👀 I’m studying software engineering at the University of Buenos Aires.
-- 📫 How to reach me: salluzzi.luca@gmail.com
+- 📖 I’m studying software engineering at the University of Buenos Aires.
+- 📧 How to reach me: salluzzi.luca@gmail.com
 
-![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=salluzziluca&show_icons=true&theme=tokyonight&count_private=true)
+![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=salluzziluca&show_icons=true&count_private=true&theme=tokyonight)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salluzziluca)
 <!---
