@@ -1,7 +1,7 @@
 # I'm Luca Salluzzi
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=salluzziluca&show_icons=true&theme=tokyonight)
 
-- 👀 I’m studying software development at the University of Buenos Aires.
+- 👀 I’m studying software engineering at the University of Buenos Aires.
 - 📫 How to reach me: salluzzi.luca@gmail.com
 
 <!---
