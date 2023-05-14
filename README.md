@@ -3,14 +3,13 @@
 
 - 📖 I’m studying software engineering at University of Buenos Aires.
 - 📧 How to reach me: salluzzi.luca@gmail.com
+- I'm currently learning and enjoying golang
 --- 
 
 [![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=salluzziluca&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salluzziluca&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
-I'm currently learning and enjoying golang
 
 <!---
 salluzziluca/salluzziluca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
