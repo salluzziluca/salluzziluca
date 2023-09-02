@@ -1,7 +1,7 @@
 # I'm Luca Salluzzi 
 
 
-- 📖 I’m studying software engineering at University of Buenos Aires.
+- 📖 I’m studying Informatic Engineering at the University of Buenos Aires.
 - 📧 How to reach me: salluzzi.luca@gmail.com
 - I'm currently learning and enjoying golang
 --- 
